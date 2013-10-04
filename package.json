@@ -1,0 +1,8 @@
+{
+  "name": "keysdown",
+  "version": "0.0.1",
+  "description": "keys down in a browser window",
+  "main": "keysdown.js",
+  "author": "Kory Nunn",
+  "license": "BSD"
+}
