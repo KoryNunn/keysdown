@@ -1,12 +1,20 @@
 {
-    "name": "keysdown",
-    "version": "0.0.1",
-    "description": "keys down in a browser window",
-    "main": "keysdown.js",
-    "author": "Kory Nunn",
-    "license": "BSD",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/KoryNunn/keysdown.git"
-    }
+  "name": "keysdown",
+  "version": "0.0.1",
+  "description": "keys down in a browser window",
+  "main": "keysdown.js",
+  "author": "Kory Nunn",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoryNunn/keysdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/keysdown/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/keysdown#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
